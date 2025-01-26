@@ -49,9 +49,13 @@
 Blockchain-based transparency for the beauty industry.  
 
 🔗 [ExpressJS API](https://github.com/iamademar/safebeautyledger-api)
+
 🔗 [SafeBeautyLedger Smart Contract](https://github.com/iamademar/safebeautyledger)
+
 🔗 [Next.js Regulator App](https://github.com/iamademar/safebeautyledger-regulator-app)
+
 🔗 [Next.js Manufacturer App](https://github.com/iamademar/safebeautyledger-manufacturer-app)
+
 🔗 [Next.js Consumer AI Chatbot](https://github.com/iamademar/safebeautyledger-ai)
 
 
