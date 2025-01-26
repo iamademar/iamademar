@@ -44,15 +44,15 @@
 
 ## 🌟 **OPEN SOURCE PROJECTS**
 
-### 🔗 **SafeBeautyLedger**  
+### :octocat: **SafeBeautyLedger**  
 
 Blockchain-based transparency for the beauty industry.  
 
-:octocat: [ExpressJS API](https://github.com/iamademar/safebeautyledger-api)
-:octocat: [SafeBeautyLedger Smart Contract](https://github.com/iamademar/safebeautyledger)
-:octocat: [Next.js Regulator App](https://github.com/iamademar/safebeautyledger-regulator-app)
-:octocat: [Next.js Manufacturer App](https://github.com/iamademar/safebeautyledger-manufacturer-app)
-:octocat: [Next.js Consumer AI Chatbot](https://github.com/iamademar/safebeautyledger-ai)
+🔗 [ExpressJS API](https://github.com/iamademar/safebeautyledger-api)
+🔗 [SafeBeautyLedger Smart Contract](https://github.com/iamademar/safebeautyledger)
+🔗 [Next.js Regulator App](https://github.com/iamademar/safebeautyledger-regulator-app)
+🔗 [Next.js Manufacturer App](https://github.com/iamademar/safebeautyledger-manufacturer-app)
+🔗 [Next.js Consumer AI Chatbot](https://github.com/iamademar/safebeautyledger-ai)
 
 
 💻 **Tech Stack**
