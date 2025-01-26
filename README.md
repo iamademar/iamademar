@@ -70,14 +70,15 @@ SafeBeautyLedger is a blockchain-based platform designed to ensure transparency,
 
 
 ### 📚 **Study Space Occupancy Detector (SSOD)**  
-- The Study Space Occupancy Detector (SSOD) is an IoT-based system developed to monitor and optimize the utilization of study spaces in university settings. Using sensors like Raspberry Pi, Infrared Tracking Sensors, and thermistors, the system tracks real-time room occupancy, temperature, and environmental conditions. This data is sent to a central Django-based application for analysis and visualization, enabling universities to manage study space availability efficiently and enhance the overall student experience. SSOD aims to ensure that students have access to productive and comfortable study environments, while also supporting energy-efficient campus operations.
+
+The Study Space Occupancy Detector (SSOD) is an IoT-based system developed to monitor and optimize the utilization of study spaces in university settings. Using sensors like Raspberry Pi, Infrared Tracking Sensors, and thermistors, the system tracks real-time room occupancy, temperature, and environmental conditions. This data is sent to a central Django-based application for analysis and visualization, enabling universities to manage study space availability efficiently and enhance the overall student experience. SSOD aims to ensure that students have access to productive and comfortable study environments, while also supporting energy-efficient campus operations.
    
 💻 **Tech Stack:** 
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)  
-![Adafruit](https://img.shields.io/badge/Adafruit-000000?style=flat&logo=adafruit&logoColor=white)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
+![Adafruit](https://img.shields.io/badge/Adafruit-000000?style=flat&logo=adafruit&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)  
 
 ---
