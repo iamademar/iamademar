@@ -3,8 +3,6 @@
 📧 [hey@ademartutor.com](mailto:hey@ademartutor.com)  
 🌐 [www.ademartutor.com](https://www.ademartutor.com)  
 
----
-
 ## 🚀 **SUMMARY**  
 👨‍💻 Senior Full Stack Engineer with 15+ years of experience in:  
 - Leading development teams and architecting scalable SaaS platforms.  
@@ -51,13 +49,9 @@
 Blockchain-based transparency for the beauty industry.  
 
 :octocat: [ExpressJS API](https://github.com/iamademar/safebeautyledger-api)
-
 :octocat: [SafeBeautyLedger Smart Contract](https://github.com/iamademar/safebeautyledger)
-
 :octocat: [Next.js Regulator App](https://github.com/iamademar/safebeautyledger-regulator-app)
-
 :octocat: [Next.js Manufacturer App](https://github.com/iamademar/safebeautyledger-manufacturer-app)
-
 :octocat: [Next.js Consumer AI Chatbot](https://github.com/iamademar/safebeautyledger-ai)
 
 
