@@ -69,12 +69,14 @@ SafeBeautyLedger is a blockchain-based platform designed to ensure transparency,
 ***
 
 
-### 📚 **Study Space Occupancy Detector (SSOD)**  
+### :octocat: **Study Space Occupancy Detector (SSOD)**  
 
 The Study Space Occupancy Detector (SSOD) is an IoT-based system developed to monitor and optimize the utilization of study spaces in university settings. Using sensors like Raspberry Pi, Infrared Tracking Sensors, and thermistors, the system tracks real-time room occupancy, temperature, and environmental conditions. This data is sent to a central Django-based application for analysis and visualization, enabling universities to manage study space availability efficiently and enhance the overall student experience. SSOD aims to ensure that students have access to productive and comfortable study environments, while also supporting energy-efficient campus operations.
 
 🔗 [Next.js Web App](https://github.com/iamademar/ssod-frontend)
+
 🔗 [Django API]([https://github.com/iamademar/ssod-frontend](https://github.com/iamademar/ssod-iot-api))
+
 🔗 [Raspberry Pi Code](https://github.com/iamademar/ssod-iot-raspberry-pi)
 
    
