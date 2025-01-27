@@ -159,7 +159,7 @@ Startup projects I've been working on.
 
 ### 💡 **Principal Engineer and Lead Consultant**  
 **180 Marketing** (USA)  
-**Feb 2018 - Dec 2024**  
+**Feb 2018 - Ongoing**  
 - ⚙️ Built SaaS tools like [LinkHunter.com](https://linkhunter.com) for marketers.  
 - 🤖 Developed AI-powered tools with GPT-4, Claude and Dall-E
 - 🏗️ Designed scalable architectures for SEO platforms.  
