@@ -75,7 +75,7 @@ The Study Space Occupancy Detector (SSOD) is an IoT-based system developed to mo
 
 🔗 [Next.js Web App](https://github.com/iamademar/ssod-frontend)
 
-🔗 [Django API] [https://github.com/iamademar/ssod-frontend](https://github.com/iamademar/ssod-iot-api)
+🔗 [Django API](https://github.com/iamademar/ssod-iot-api)
 
 🔗 [Raspberry Pi Code](https://github.com/iamademar/ssod-iot-raspberry-pi)
 
