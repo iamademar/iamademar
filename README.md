@@ -125,13 +125,13 @@ Startup projects I've been working on.
 ## 💼 **WORK HISTORY**
 
 ### 🌐 **Founder & CEO**  
-**Bootyard Technologies**  
-**May 2011 - Feb 2024**  
+**adematic**  
+**May 2011 - ongoing**  
 - 🌍 Grew the company to 30+ professionals, providing SaaS solutions worldwide.  
 - 💼 Raised millions in funding and delivered successful exits for startups.  
 - 👨‍🏫 Advocated for agile development and mentoring developers. 
 
-## Projects by Bootyard Technologies
+## Projects by adematic
 
 ### 🎯 **Principal Engineer and Lead Consultant**  
 **HURRCollective.com** (UK)  
