@@ -225,7 +225,9 @@ Startup projects I've been working on.
 ---
 
 ## 🎓 **EDUCATION**  
-- **2024 - Present:** Graduate Diploma in Computer and Information Sciences  
+- **2025 - Present:** Master in Artificial Intelligence  
+  *University of Waikato* 
+- **2024 - 2024:** Graduate Diploma in Computer and Information Sciences  
   *Auckland University of Technology*  
 - **2006 - 2010:** Bachelor of Science in Computer Science  
   *University of Philippines Cebu*  
