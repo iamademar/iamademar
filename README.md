@@ -12,7 +12,7 @@ I’ve done this inside the companies I own:
 
 * Codetoki (2012–2015) spun out of Bootyard, got funded in Singapore, and picked up awards from Microsoft, ADB, and WEF/Young Global Leaders. 
 
-* Adematic (2024→ Present) Bootyard rebranded. Our AI playbook is minimalist:
+* Adematic (2024→ Present) Shifted our focus to AI. Our AI playbook is minimalist:
   - AI Prompts based on Peer-reviewed papers for reliability
   - RAG for verifiable context
   - Fine-tuning only when the ROI adds up
