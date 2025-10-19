@@ -12,19 +12,22 @@ I’ve done this inside the companies I own:
   <img src="https://github.com/user-attachments/assets/75ff8d4a-6c05-4b49-9cf7-88511f9648ea" width="500" />
 </p>
 
-* Bootyard (2011–2024) focused on Ruby on Rails and web apps. Grew a 30+ person team, shipped multi-tenant SaaS, and helped clients raise millions. Led HURR’s platform/iOS and white-label rollouts (<a href="https://selfridgesrental.com" rel="nofollow">Selfridges</a>, <a href="https://matchesfashionrental.com" rel="nofollow">Matches</a>, <a href="https://johnlewisfashionrental.com" rel="nofollow">John Lewis</a>, <a href="https://rixorental.com" rel="nofollow">Rixo</a>), and contributed to a US startup that exited in 2022 (<a href="https://www.teamsnap.com/leagueside-acquired" rel="nofollow">LeagueSide</a> → TeamSnap).
+* **Bootyard (2011–2024)** focused on Ruby on Rails and web apps. Grew a 30+ person team, shipped multi-tenant SaaS, and helped clients raise millions. Led HURR’s platform/iOS and white-label rollouts (<a href="https://selfridgesrental.com" rel="nofollow">Selfridges</a>, <a href="https://matchesfashionrental.com" rel="nofollow">Matches</a>, <a href="https://johnlewisfashionrental.com" rel="nofollow">John Lewis</a>, <a href="https://rixorental.com" rel="nofollow">Rixo</a>), and contributed to a US startup that exited in 2022 (<a href="https://www.teamsnap.com/leagueside-acquired" rel="nofollow">LeagueSide</a> → TeamSnap).
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a3dcddea-d3ed-492c-9758-37510eaca2c7" width="500" />
 </p>
 
-* Codetoki (2012–2015) spun out of Bootyard, got funded in Singapore, and picked up awards from Microsoft, ADB, and WEF/Young Global Leaders.
+* **Codetoki (2012–2015)** spun out of Bootyard, got funded in Singapore, and picked up awards from <a href="https://blogs.microsoft.com/on-the-issues/2013/05/03/harnessing-the-power-of-apps-for-social-and-economic-development-across-asia-and-the-pacific/">Microsoft</a>, <a href="https://www.adb.org/subjects/technical-and-vocational-education-and-training?page=80">ADB</a>, and <a href="https://www.teamasia.com/cebu-graduates-develop-gamified-platform-codetoki-build-rewarding-careers/">WEF/Young Global Leaders</a>.
 
-* Adematic (2024→ Present) Shifted our focus to AI. Our AI playbook is minimalist:
-  (1) AI Prompts based on Peer-reviewed papers for reliability
-  (2) RAG for verifiable context
-  (3) Fine-tuning only when the ROI adds up.
-Outcome: smaller surface area, faster automation, easier maintenance. The goal is still the same, ship software that earns its keep.
+* **Adematic (2024 → Present)** — shifted our focus to AI.
+
+  **AI playbook:**
+  1. AI prompts based on peer-reviewed papers for reliability
+  2. RAG for verifiable context
+  3. Fine-tuning only when the ROI adds up
+
+  **Outcome:** smaller surface area, faster automation, easier maintenance. The goal is still the same, ship software that earns its keep.
 
 
 
@@ -36,37 +39,6 @@ Day to day, I engineer end-to-end AI systems spanning document & OCR pipelines, 
 
 I’m currently pursuing a Master’s in Artificial Intelligence (final year) at the University of Waikato to sharpen the practical AI I put into products. Therefore, I accept only a limited number of engagements per quarter to stay focused. If you believe in simple plans, steady delivery, and software that earns its keep, we’re already on the same side!
 
----
-
-## 🔑 **Key Skills**
-
-☁️ **Cloud Management**:
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
-
-📊 **Database**:
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-🔗 **Blockchain**:  
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-000000?style=flat&logo=ethereum&logoColor=yellow)
-
-🤖 **AI/ML**:
-
-![Langchain](https://img.shields.io/badge/Langchain-FFC700?style=flat)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-
-💻 **Cross-Platform Development**:  
-![Turbo Native](https://img.shields.io/badge/Turbo%20Native-0086FF?style=flat)  
- 
 ---
 
 ## 🌟 **OPEN SOURCE PROJECTS**
@@ -148,106 +120,34 @@ Startup projects I've been working on.
 
 ---
 
+## 🔑 **Key Skills**
 
-## 💼 **WORK HISTORY**
+☁️ **Cloud Management**:
 
-### 🌐 **Founder & CEO**  
-**adematic**  
-**May 2011 - ongoing**  
-- 🌍 Grew the company to 30+ professionals, providing SaaS solutions worldwide.  
-- 💼 Raised millions in funding and delivered successful exits for startups.  
-- 👨‍🏫 Advocated for agile development and mentoring developers. 
-
-## Projects by adematic
-
-### 🎯 **Principal Engineer and Lead Consultant**  
-**HURRCollective.com** (UK)  
-**May 2018 - Feb 2024**  
-- 🛠️ Architected and managed a 20+ member team for the UK’s leading fashion rental SaaS platform.  
-- 📱 Developed the HURR iOS hybrid app using Turbo, boosting mobile adoption.  
-- 🤝 Worked white-label apps for top fashion brands:  
-  - <a href="https://selfridgesrental.com" rel="nofollow">Selfridges</a>
-  - <a href="https://matchesfashionrental.com" rel="nofollow">Matches Fashion</a>  
-  - <a href="https://flannelsrental.com" rel="nofollow">Flannels</a>  
-  - <a href="https://johnlewisfashionrental.com" rel="nofollow">John Lewis</a>  
-  - <a href="https://rixorental.com" rel="nofollow">Rixo</a>
-
-💻 **Tech Stack:**
-
-![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat&logo=elasticsearch&logoColor=white)
-![Turbo](https://img.shields.io/badge/Turbo-0086FF?style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 
----
+📊 **Database**:
 
-### 💡 **Principal Engineer and Lead Consultant**  
-**180 Marketing** (USA)  
-**Feb 2018 - Ongoing**  
-- ⚙️ Built SaaS tools like [LinkHunter.com](https://linkhunter.com) for marketers.  
-- 🤖 Developed AI-powered tools with GPT-4, Claude and Dall-E
-- 🏗️ Designed scalable architectures for SEO platforms.  
-
-💻 **Tech Stack:**
-
-![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
-![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=flat&logo=openai&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-FFB900?style=flat&logo=anthropic&logoColor=black)
-![DALL-E](https://img.shields.io/badge/DALL--E-5A5AD1?style=flat&logo=openai&logoColor=white)
-
-
----
-
-### 🛠️ **Principal Engineer and Lead Consultant**  
-**Prysim.com** (Australia)  
-**May 2018 - May 2019**  
-- 🛠️ Rescued the Prysim Project: Overhauled the MVP under a tight timeline by fixing critical bugs and implementing scalable new features.
-- 💡 Led Feature Development: Designed and enhanced core functionalities
-- 🚀 MVP Delivery Success: Delivered the MVP during the CEA Collider Accelerator Program Graduation, marking a major milestone for the startup.  
-
-💻 **Tech Stack:**
-
-![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
-
----
-
-### 🏅 **Pioneer Developer**  
-**Leagueside.com** (USA)  
-**Nov 2017 - Mar 2018**  
-- ⚙️ Developed and optimized MVP features for a youth sports sponsorship platform
-- 🤝 LeagueSide was acquired by TeamSnap in 2022.
-
-💻 **Tech Stack:** 
-
-![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-
-
----
-
-### 🏢 **Co-founder & CTO**  
-**Codetoki.com** (Singapore)  
-**May 2012 - Jan 2015**  
-- 🚀 Designed and scaled a microservice architecture for a recruitment SaaS.  
-- 🏆 Won awards from Microsoft and Asian Development Bank for gamifying recruitment.  
-
-💻 **Tech Stack:**
-
-![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
-![JRuby](https://img.shields.io/badge/JRuby-CC0000?style=flat&logo=ruby&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+
+🔗 **Blockchain**:  
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-000000?style=flat&logo=ethereum&logoColor=yellow)
+
+🤖 **AI/ML**:
+
+![Langchain](https://img.shields.io/badge/Langchain-FFC700?style=flat)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+
+💻 **Cross-Platform Development**:  
+![Turbo Native](https://img.shields.io/badge/Turbo%20Native-0086FF?style=flat)  
 
 ---
 
@@ -262,7 +162,7 @@ Startup projects I've been working on.
 ---
 
 ## 🏆 **ACCOLADES**  
-- 🏆 **Apps for Asia Winner:** Recognized by Microsoft & Asian Development Bank. [Read more](https://www.appsforasia.org/appsforasia-2014-winners/) 
+- 🏆 **Apps for Asia Winner:** Recognized by Microsoft & Asian Development Bank. [Read more]([https://www.appsforasia.org/appsforasia-2014-winners/](https://www.adb.org/subjects/technical-and-vocational-education-and-training?page=80)) 
 - 🌍 **AppBridge Winner:** Honored by the World Economic Forum. [Read more](https://www.appbridge.org/winners/2014-winners/)  
 - 🥇 **Startup Weekend Winner:** For Codetoki’s IT recruitment impact. [Read more](https://www.startupweekend.org/winners/2012-winners/)  
 
