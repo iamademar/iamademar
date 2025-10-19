@@ -161,14 +161,6 @@ Startup projects I've been working on.
 
 ---
 
-## 🏆 **ACCOLADES**  
-- 🏆 **Apps for Asia Winner:** Recognized by Microsoft & Asian Development Bank. [Read more]([https://www.appsforasia.org/appsforasia-2014-winners/](https://www.adb.org/subjects/technical-and-vocational-education-and-training?page=80)) 
-- 🌍 **AppBridge Winner:** Honored by the World Economic Forum. [Read more](https://www.appbridge.org/winners/2014-winners/)  
-- 🥇 **Startup Weekend Winner:** For Codetoki’s IT recruitment impact. [Read more](https://www.startupweekend.org/winners/2012-winners/)  
-
-
----
-
 ## 📢 **MEDIA COVERAGE**
 
 - 📰 **Microsoft Blog**: Featured for Codetoki’s innovative use of Azure. [Read more](https://blogs.microsoft.com/on-the-issues/2013/05/03/harnessing-the-power-of-apps-for-social-and-economic-development-across-asia-and-the-pacific/)
