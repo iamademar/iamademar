@@ -4,7 +4,7 @@
 🌐 [www.ademartutor.com](https://www.ademartutor.com)  
 
 ## 🚀 **About**  
-I ship working products. I thrive in small teams that punch above their weight class. I’m a pragmatic developer who prioritizes business outcomes over tech hype. Guided by Occam’s Razor applied in building software: choose the simplest path that delivers business value and keeps the future maintainable.
+I ship working products. I thrive in small teams that punch above their weight class. I’m a pragmatic developer who prioritizes business outcomes over tech hype. Guided by [Occam’s Razor](https://simple.wikipedia.org/wiki/Occam%27s_razor) applied in building software: choose the simplest path that delivers business value and keeps the future maintainable.
 
 I’ve done this inside the companies I own: 
 
