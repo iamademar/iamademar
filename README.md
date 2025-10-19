@@ -25,6 +25,10 @@ I’ve done this inside the companies I own:
 
 Day to day, I engineer end-to-end AI systems spanning document & OCR pipelines, LLM + RAG (retrieval-augmented generation) models, and inference / deployment infrastructure, paired with React UIs for interaction. My stack now centers on Python / FastAPI for backend APIs, PostgreSQL for persistence, and containerized infrastructure (Docker + deployment / orchestration pipelines) for scalable delivery.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e00abc69-0db1-473a-9721-23e366b3c1ee" height="500" />
+</p>
+
 I’m currently pursuing a Master’s in Artificial Intelligence (final year) at the University of Waikato to sharpen the practical AI I put into products. Therefore, I accept only a limited number of engagements per quarter to stay focused. If you believe in simple plans, steady delivery, and software that earns its keep, we’re already on the same side!
 
 ---
