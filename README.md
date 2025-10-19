@@ -6,9 +6,13 @@
 ## 🚀 **About**  
 I ship working products. I thrive in small teams that punch above their weight class. I’m a pragmatic developer who prioritizes business outcomes over tech hype. Guided by [Occam’s Razor](https://simple.wikipedia.org/wiki/Occam%27s_razor) applied in building software: choose the simplest path that delivers business value and keeps the future maintainable.
 
-I’ve done this inside the companies I own: 
+I’ve done this inside the companies I own:
 
-* Adematic (2024→ Present) Shifted our focus to AI. Our AI playbook is minimalist: (1) AI Prompts based on Peer-reviewed papers for reliability, (2) RAG for verifiable context, (3) Fine-tuning only when the ROI adds up. Outcome: smaller surface area, faster automation, easier maintenance. The goal is still the same, ship software that earns its keep.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/75ff8d4a-6c05-4b49-9cf7-88511f9648ea" width="500" />
+</p>
+
+* Bootyard (2011–2024) focused on Ruby on Rails and web apps. Grew a 30+ person team, shipped multi-tenant SaaS, and helped clients raise millions. Led HURR’s platform/iOS and white-label rollouts (Selfridges, Matches, John Lewis, Rixo), and contributed to a US startup that exited in 2022 (LeagueSide → TeamSnap).
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a3dcddea-d3ed-492c-9758-37510eaca2c7" width="500" />
@@ -16,11 +20,8 @@ I’ve done this inside the companies I own:
 
 * Codetoki (2012–2015) spun out of Bootyard, got funded in Singapore, and picked up awards from Microsoft, ADB, and WEF/Young Global Leaders.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/75ff8d4a-6c05-4b49-9cf7-88511f9648ea" width="500" />
-</p>
+* Adematic (2024→ Present) Shifted our focus to AI. Our AI playbook is minimalist: (1) AI Prompts based on Peer-reviewed papers for reliability, (2) RAG for verifiable context, (3) Fine-tuning only when the ROI adds up. Outcome: smaller surface area, faster automation, easier maintenance. The goal is still the same, ship software that earns its keep.
 
-* Bootyard (2011–2024) focused on Ruby on Rails and web apps. Grew a 30+ person team, shipped multi-tenant SaaS, and helped clients raise millions. Led HURR’s platform/iOS and white-label rollouts (Selfridges, Matches, John Lewis, Rixo), and contributed to a US startup that exited in 2022 (LeagueSide → TeamSnap).
 
 
 Day to day, I engineer end-to-end AI systems spanning document & OCR pipelines, LLM + RAG (retrieval-augmented generation) models, and inference / deployment infrastructure, paired with React UIs for interaction. My stack now centers on Python / FastAPI for backend APIs, PostgreSQL for persistence, and containerized infrastructure (Docker + deployment / orchestration pipelines) for scalable delivery.
