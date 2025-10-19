@@ -8,11 +8,12 @@ I ship working products. I thrive in small teams that punch above their weight c
 
 I’ve done this inside the companies I own: 
 
-* Bootyard (2011–2024) focused on Ruby on Rails and web apps. Grew a 30+ person team, shipped multi-tenant SaaS, and helped clients raise millions. Led HURR’s platform/iOS and white-label rollouts (Selfridges, Matches, John Lewis, Rixo), and contributed to a US startup that exited in 2022 (LeagueSide → TeamSnap).
+* Adematic (2024→ Present) Shifted our focus to AI. Our AI playbook is minimalist: (1) AI Prompts based on Peer-reviewed papers for reliability, (2) RAG for verifiable context, (3) Fine-tuning only when the ROI adds up. Outcome: smaller surface area, faster automation, easier maintenance. The goal is still the same, ship software that earns its keep.
 
 * Codetoki (2012–2015) spun out of Bootyard, got funded in Singapore, and picked up awards from Microsoft, ADB, and WEF/Young Global Leaders. 
 
-* Adematic (2024→ Present) Shifted our focus to AI. Our AI playbook is minimalist: (1) AI Prompts based on Peer-reviewed papers for reliability, (2) RAG for verifiable context, (3) Fine-tuning only when the ROI adds up. Outcome: smaller surface area, faster automation, easier maintenance. The goal is still the same, ship software that earns its keep.
+* Bootyard (2011–2024) focused on Ruby on Rails and web apps. Grew a 30+ person team, shipped multi-tenant SaaS, and helped clients raise millions. Led HURR’s platform/iOS and white-label rollouts (Selfridges, Matches, John Lewis, Rixo), and contributed to a US startup that exited in 2022 (LeagueSide → TeamSnap).
+
 
 Day to day, I engineer end-to-end AI systems spanning document & OCR pipelines, LLM + RAG (retrieval-augmented generation) models, and inference / deployment infrastructure, paired with React UIs for interaction. My stack now centers on Python / FastAPI for backend APIs, PostgreSQL for persistence, and containerized infrastructure (Docker + deployment / orchestration pipelines) for scalable delivery.
 
