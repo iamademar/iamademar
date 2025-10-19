@@ -14,7 +14,11 @@ I’ve done this inside the companies I own:
   <img src="https://github.com/user-attachments/assets/a3dcddea-d3ed-492c-9758-37510eaca2c7" width="500" />
 </p>
 
-* Codetoki (2012–2015) spun out of Bootyard, got funded in Singapore, and picked up awards from Microsoft, ADB, and WEF/Young Global Leaders. 
+* Codetoki (2012–2015) spun out of Bootyard, got funded in Singapore, and picked up awards from Microsoft, ADB, and WEF/Young Global Leaders.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/75ff8d4a-6c05-4b49-9cf7-88511f9648ea" width="500" />
+</p>
 
 * Bootyard (2011–2024) focused on Ruby on Rails and web apps. Grew a 30+ person team, shipped multi-tenant SaaS, and helped clients raise millions. Led HURR’s platform/iOS and white-label rollouts (Selfridges, Matches, John Lewis, Rixo), and contributed to a US startup that exited in 2022 (LeagueSide → TeamSnap).
 
