@@ -10,6 +10,8 @@ I’ve done this inside the companies I own:
 
 * Adematic (2024→ Present) Shifted our focus to AI. Our AI playbook is minimalist: (1) AI Prompts based on Peer-reviewed papers for reliability, (2) RAG for verifiable context, (3) Fine-tuning only when the ROI adds up. Outcome: smaller surface area, faster automation, easier maintenance. The goal is still the same, ship software that earns its keep.
 
+<img width="1020" height="1150" alt="image" src="https://github.com/user-attachments/assets/a3dcddea-d3ed-492c-9758-37510eaca2c7" />
+
 * Codetoki (2012–2015) spun out of Bootyard, got funded in Singapore, and picked up awards from Microsoft, ADB, and WEF/Young Global Leaders. 
 
 * Bootyard (2011–2024) focused on Ruby on Rails and web apps. Grew a 30+ person team, shipped multi-tenant SaaS, and helped clients raise millions. Led HURR’s platform/iOS and white-label rollouts (Selfridges, Matches, John Lewis, Rixo), and contributed to a US startup that exited in 2022 (LeagueSide → TeamSnap).
