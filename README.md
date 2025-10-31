@@ -43,6 +43,37 @@ I’m currently pursuing a Master’s in Artificial Intelligence (final year) at
 
 ## 🌟 **OPEN SOURCE PROJECTS**
 
+### LexiTau
+
+LexiTau is a multi-tenant, safety-first Text-to-SQL platform that turns natural-language questions about business data into read-only, explainable SQL queries. It bridges the gap between human intent and database logic by teaching the model to “speak the database’s language” — profiling tables, linking metadata, and enforcing guardrails before execution.
+
+🔗 [LexTau Repository](https://github.com/iamademar/LexExtract)
+
+💻 **Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat&logo=radixui&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat&logo=react&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_AI-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-6BA81E?style=flat&logo=python&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=flat&logo=next.js&logoColor=white)
+
+
 ### :octocat: LexExtract
 
 LexExtract is a secure, standalone web application built for UK law firms to automate the extraction and analysis of bank statements. It allows users to upload PDF statements, convert them into structured CSV data, and query transactions through a natural-language chat interface powered by an LLM.
