@@ -43,6 +43,38 @@ I’m currently pursuing a Master’s in Artificial Intelligence (final year) at
 
 ## 🌟 **OPEN SOURCE PROJECTS**
 
+:octocat: LexExtract
+
+LexExtract is a secure, standalone web application built for UK law firms to automate the extraction and analysis of bank statements. It allows users to upload PDF statements, convert them into structured CSV data, and query transactions through a natural-language chat interface powered by an LLM.
+
+🔗 [LexExtract Repository](https://github.com/iamademar/LexExtract)
+
+💻 **Tech Stack**
+
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FCA121?style=flat&logo=sqlalchemy&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-FF6B6B?style=flat&logo=alembic&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Mistral AI](https://img.shields.io/badge/Mistral_AI-FF7000?style=flat&logo=mistral-ai&logoColor=white)
+![Tesseract](https://img.shields.io/badge/Tesseract-0052CC?style=flat&logo=tesseract&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=flat&logo=postgresql&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-FF6B6B?style=flat&logo=uvicorn&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-FFD43B?style=flat&logo=python&logoColor=blue)
+![Camelot](https://img.shields.io/badge/Camelot-8A2BE2?style=flat&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat&logo=radix-ui&logoColor=white)
+
+
+
 ### :octocat: **SafeBeautyLedger**  
 
 SafeBeautyLedger is a blockchain-based platform designed to ensure transparency, traceability, and accountability in the beauty industry. By leveraging Ethereum smart contracts and decentralized ledger technology, it allows beauty brands and suppliers to record and verify product sourcing, manufacturing processes, and certifications in an immutable and transparent manner. This system helps build trust with consumers by providing accessible, verified data about the safety and authenticity of beauty products, ultimately promoting ethical practices and reducing counterfeit goods in the market. 
