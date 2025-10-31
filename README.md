@@ -76,7 +76,7 @@ LexiTau is a multi-tenant, safety-first Text-to-SQL platform that turns natural-
 
 ### :octocat: LexExtract
 
-LexExtract is a secure, standalone web application built for UK law firms to automate the extraction and analysis of bank statements. It allows users to upload PDF statements, convert them into structured CSV data, and query transactions through a natural-language chat interface powered by an LLM.
+LexExtract is a secure, standalone web application built for law firms to automate the extraction and analysis of bank statements. It allows users to upload PDF statements, convert them into structured CSV data, and query transactions through a natural-language chat interface powered by an LLM.
 
 🔗 [LexExtract Repository](https://github.com/iamademar/LexExtract)
 
