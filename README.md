@@ -43,7 +43,7 @@ I’m currently pursuing a Master’s in Artificial Intelligence (final year) at
 
 ## 🌟 **OPEN SOURCE PROJECTS**
 
-:octocat: LexExtract
+### :octocat: LexExtract
 
 LexExtract is a secure, standalone web application built for UK law firms to automate the extraction and analysis of bank statements. It allows users to upload PDF statements, convert them into structured CSV data, and query transactions through a natural-language chat interface powered by an LLM.
 
