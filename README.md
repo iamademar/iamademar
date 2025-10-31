@@ -43,11 +43,11 @@ I’m currently pursuing a Master’s in Artificial Intelligence (final year) at
 
 ## 🌟 **OPEN SOURCE PROJECTS**
 
-### LexiTau
+### :octocat: LexiTau
 
 LexiTau is a multi-tenant, safety-first Text-to-SQL platform that turns natural-language questions about business data into read-only, explainable SQL queries. It bridges the gap between human intent and database logic by teaching the model to “speak the database’s language” — profiling tables, linking metadata, and enforcing guardrails before execution.
 
-🔗 [LexTau Repository](https://github.com/iamademar/LexExtract)
+🔗 [LexiTau Repository](https://github.com/iamademar/LexExtract)
 
 💻 **Tech Stack**
 
