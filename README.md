@@ -4,34 +4,32 @@
 🌐 [www.ademartutor.com](https://www.ademartutor.com)  
 
 ## 🚀 **About**  
-I ship working products. I thrive in small teams that punch above their weight class. I’m a pragmatic developer who prioritizes business outcomes over tech hype. Guided by [Occam’s Razor](https://simple.wikipedia.org/wiki/Occam%27s_razor) applied in building software: choose the simplest path that delivers business value and keeps the future maintainable.
+One question drives me: 
 
-I’ve done this inside the companies I own:
+**"Can a system of AI agents reliably handle the work of a data team (pipelines, analysis, reporting, QA) at scale?"**
+
+I think so. I'm building toward it.
+
+I've spent 15+ years shipping software in small teams that punch above their weight. I've run companies, grown engineering teams, built SaaS platforms, and helped clients raise millions. 
+
+Running teams for years taught me one thing: output breaks down at the coordination layer, not the talent layer. 
+
+That's the same problem I'm now solving with AI agents, and I think it will define how data teams operate in the future.
+
+## The path here
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/75ff8d4a-6c05-4b49-9cf7-88511f9648ea" width="500" />
 </p>
 
-* **Bootyard (2011–2024)** focused on Ruby on Rails and web apps. Grew a 30+ person team, shipped multi-tenant SaaS, and helped clients raise millions. Led HURR’s platform/iOS and white-label rollouts (<a href="https://selfridgesrental.com" rel="nofollow">Selfridges</a>, <a href="https://matchesfashionrental.com" rel="nofollow">Matches</a>, <a href="https://johnlewisfashionrental.com" rel="nofollow">John Lewis</a>, <a href="https://rixorental.com" rel="nofollow">Rixo</a>), and contributed to a US startup that exited in 2022 (<a href="https://www.teamsnap.com/leagueside-acquired" rel="nofollow">LeagueSide</a> → TeamSnap).
+- **Bootyard (2011–2024)** — Ruby on Rails consultancy. Grew to 30+ people. Shipped platforms for HURR (<a href="https://selfridgesrental.com" rel="nofollow">Selfridges</a>, <a href="https://matchesfashionrental.com" rel="nofollow">Matches</a>, <a href="https://johnlewisfashionrental.com" rel="nofollow">John Lewis</a>, <a href="https://rixorental.com" rel="nofollow">Rixo</a> white-labels), contributed to a US startup that exited in 2022 (<a href="https://www.teamsnap.com/leagueside-acquired" rel="nofollow">LeagueSide</a> → TeamSnap).
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a3dcddea-d3ed-492c-9758-37510eaca2c7" width="500" />
 </p>
 
-* **Codetoki (2012–2015)** spun out of Bootyard, got funded in Singapore, and picked up awards from <a href="https://blogs.microsoft.com/on-the-issues/2013/05/03/harnessing-the-power-of-apps-for-social-and-economic-development-across-asia-and-the-pacific/">Microsoft</a>, <a href="https://www.adb.org/subjects/technical-and-vocational-education-and-training?page=80">ADB</a>, and <a href="https://www.teamasia.com/cebu-graduates-develop-gamified-platform-codetoki-build-rewarding-careers/">WEF/Young Global Leaders</a>.
-
-* **Adematic (2024 → Present)** — shifted our focus to AI.
-
-  **AI playbook:**
-  1. AI prompts based on peer-reviewed papers for reliability
-  2. RAG for verifiable context
-  3. Fine-tuning only when the ROI adds up
-
-  **Outcome:** smaller surface area, faster automation, easier maintenance. The goal is still the same, ship software that earns its keep.
-
-
-
-Day to day, I engineer end-to-end AI systems spanning document & OCR pipelines, LLM + RAG (retrieval-augmented generation) models, and inference / deployment infrastructure, paired with React UIs for interaction. My stack now centers on Python / FastAPI for backend APIs, PostgreSQL for persistence, and containerized infrastructure (Docker + deployment / orchestration pipelines) for scalable delivery.
+- **Codetoki (2012–2015)** — Spun out of Bootyard, funded in Singapore, recognized by <a href="https://blogs.microsoft.com/on-the-issues/2013/05/03/harnessing-the-power-of-apps-for-social-and-economic-development-across-asia-and-the-pacific/">Microsoft</a>, <a href="https://www.adb.org/subjects/technical-and-vocational-education-and-training?page=80">ADB</a>, and <a href="https://www.teamasia.com/cebu-graduates-develop-gamified-platform-codetoki-build-rewarding-careers/">WEF/Young Global Leaders</a>.
+- **Adematic (2024–Present)** — This is where the agent work happens. I build AI systems with a minimalist playbook: prompt engineering grounded in research, RAG for context you can check, and fine-tuning only when it pays off. Day to day, I engineer end-to-end AI systems: document and OCR pipelines, LLM + RAG, inference infrastructure, using Python, FastAPI, PostgreSQL, and containers.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e00abc69-0db1-473a-9721-23e366b3c1ee" height="500" />
