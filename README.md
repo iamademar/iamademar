@@ -41,9 +41,9 @@ I’m currently pursuing a Master’s in Artificial Intelligence (final year) at
 
 ## 🌟 **OPEN SOURCE PROJECTS**
 
-### :octocat: **Generative AI for Bioacoustics — Rare-Species Classification**
+### :octocat: **Generative AI for Bioacoustics (Rare-Species Classification)**
 
-A controlled 2×2 study on Kaggle **BirdCLEF-2026** asking whether generative AI can fix the long tail of a 234-class bioacoustic classifier. It crosses two models — frozen **BirdNET** embeddings vs. a fine-tuned **EfficientNet** — against two training sets — original audio vs. audio augmented with **AudioLDM 2** synthetic clips. The generation loop is closed with a BirdNET verification filter, so only synthetic clips recognisable as the intended species are kept. The best model reaches **0.955 macro-AUC**, with the synthetic-data gains concentrated in the rare, data-poor tail rather than spread uniformly.
+A controlled 2×2 study on Kaggle **BirdCLEF-2026** asking whether generative AI can fix the long tail of a 234-class bioacoustic classifier. It crosses two models, frozen **BirdNET** embeddings versus a fine-tuned **EfficientNet**, against two training sets, original audio versus audio augmented with **AudioLDM 2** synthetic clips. The generation loop is closed with a BirdNET verification filter, so only synthetic clips recognisable as the intended species are kept. The best model reaches **0.955 macro-AUC**, with the synthetic-data gains concentrated in the rare, data-poor tail rather than spread uniformly.
 
 🔗 [Bioacoustics Research Repository](https://github.com/iamademar/birdclef-2026-synthetic-audio-augmentation)
 
