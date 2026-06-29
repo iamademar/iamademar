@@ -41,6 +41,26 @@ I’m currently pursuing a Master’s in Artificial Intelligence (final year) at
 
 ## 🌟 **OPEN SOURCE PROJECTS**
 
+### :octocat: **Generative AI for Bioacoustics — Rare-Species Classification**
+
+A controlled 2×2 study on Kaggle **BirdCLEF-2026** asking whether generative AI can fix the long tail of a 234-class bioacoustic classifier. It crosses two models — frozen **BirdNET** embeddings vs. a fine-tuned **EfficientNet** — against two training sets — original audio vs. audio augmented with **AudioLDM 2** synthetic clips. The generation loop is closed with a BirdNET verification filter, so only synthetic clips recognisable as the intended species are kept. The best model reaches **0.955 macro-AUC**, with the synthetic-data gains concentrated in the rare, data-poor tail rather than spread uniformly.
+
+🔗 [Bioacoustics Research Repository](https://github.com/iamademar/birdclef-2026-synthetic-audio-augmentation)
+
+🔗 [Interactive Explainer](https://www.ademartutor.com/research/generative-ai-bioacoustics-rare-species/)
+
+💻 **Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![timm](https://img.shields.io/badge/timm-EfficientNet-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Diffusers-FFD21E?style=flat)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![librosa](https://img.shields.io/badge/librosa-4B0082?style=flat)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-BirdCLEF_2026-20BEFF?style=flat&logo=kaggle&logoColor=white)
+
 ### :octocat: LexiTau
 
 LexiTau is a multi-tenant, safety-first Text-to-SQL platform that turns natural-language questions about business data into read-only, explainable SQL queries. It bridges the gap between human intent and database logic by teaching the model to “speak the database’s language” — profiling tables, linking metadata, and enforcing guardrails before execution.
